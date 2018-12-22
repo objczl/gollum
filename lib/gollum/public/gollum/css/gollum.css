@@ -77,7 +77,7 @@ a:hover, a:visited {
 
   #head ul.actions {
     clear: none;
-    float: right;
+    float: left;
     margin: 0;
   }
 }
