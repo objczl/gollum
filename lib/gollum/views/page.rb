@@ -13,10 +13,6 @@ module Precious
         h1 || @page.url_path_title
       end
 
-      def page_header
-        title
-      end
-
       def content
         content_without_page_header(@content)
       end
